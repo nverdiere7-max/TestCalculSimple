@@ -1,7 +1,7 @@
 import streamlit as st
 from calcul2 import multiplier_par_deux
 
-st.title("× 2")
+st.title("× 3")
 
 valeur = st.number_input("Valeur 1", value=0.0, key="val1")
 st.write("Résultat :", multiplier_par_deux(valeur))

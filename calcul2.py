@@ -1,6 +1,6 @@
 def multiplier_par_deux(valeur):
     """Retourne le double de la valeur fournie."""
-    return valeur * 2
+    return valeur * 3
 
 
 if __name__ == "__main__":
